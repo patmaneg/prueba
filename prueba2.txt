@@ -1,2 +1,4 @@
 probando un segundo fichero
+cambio en el repositorio
 ahora voy a cagarla con un cambio en local
+Resuelvo el conflicto manualmente
